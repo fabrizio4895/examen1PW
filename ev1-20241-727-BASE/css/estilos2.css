@@ -1,0 +1,64 @@
+#cabecera{
+    background-color: black;
+    color: white;
+    text-align: right;
+    margin-top: 0px;
+}
+
+#opciones{
+    height: 3px;
+    padding-bottom: 2px;
+}
+
+#imagen{
+    background-color: red;
+    width: 100%;
+}
+
+
+
+li{
+    background-color: white;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-bottom: 2px;
+}
+
+.ferrari{
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+#carros{
+    background-color: black;
+    display:inline-flex;
+    text-align: left;
+    width: 100%;
+    
+}
+
+footer{
+    background-color: gray;
+    text-align: center;
+    height: 30px;
+}
+
+p{
+    padding-top: 5px;
+}
+
+img{
+    margin-right: 5px;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-left: 10px;
+    }
+    
